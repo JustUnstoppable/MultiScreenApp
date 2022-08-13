@@ -11,8 +11,8 @@
             <td>Activity 2</td>
         </tr>
         <tr>
-            <td><img src="MS1.jpeg" widht="300"></td>
-            <td><img src="MS2.jpeg" widht="300"></td>
+            <td><img src="MS1.jpeg" widht="300" height ="500"></td>
+            <td><img src="MS2.jpeg" widht="300" height="500"></td>
         </tr>
     </tbody>
 </table>
