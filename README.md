@@ -1,5 +1,5 @@
 #<h1 align="center"> MultiScreenApp App</h1>
-<table>
+<table align="center">
     <thead>
         <tr>
           <th colspan="2"><b>Screenshots</b></th>
